@@ -88,20 +88,20 @@ jobs:
   #         target_repo_url: git@gitlab.com:mfuu/v2ray.git
   #         ssh_private_key: ${{ secrets.MIRROR }}
 
-  update_branch:
-    needs: [auto_update]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: UpdateBranch
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin master
-          git checkout --orphan latest_branch
-          git add -A
-          git commit -am "update: $(date '+%Y-%m-%d %H:%M:%S')"
-          git branch -D master
-          git branch -m master
-          git push -f origin master
+  # update_branch:
+  #   needs: [auto_update]
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v2
+  #     - name: UpdateBranch
+  #       run: |
+  #         git config --local user.email "actions@github.com"
+  #         git config --local user.name "GitHub Actions"
+  #         git pull origin master
+  #         git checkout --orphan latest_branch
+  #         git add -A
+  #         git commit -am "update: $(date '+%Y-%m-%d %H:%M:%S')"
+  #         git branch -D master
+  #         git branch -m master
+  #         git push -f origin master
