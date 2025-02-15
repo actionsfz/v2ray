@@ -8,30 +8,10 @@
 |  ----  | ----   | ----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
 
-**订阅链接：**
-
-```
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-```
-
-```
-https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-```
-
-
-**镜像：**
-
-```
-https://gitlab.com/mfuu/v2ray/-/raw/master/v2ray
-```
-
-```
-https://gitlab.com/mfuu/v2ray/-/raw/master/clash.yaml
-```
 
 
 **参考仓库**
-
+forked from [mfuu/v2ray](https://github.com/mfuu/v2ray)
 * https://github.com/alanbobs999/TopFreeProxies
 
 ## HOST
