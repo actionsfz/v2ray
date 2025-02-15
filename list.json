@@ -104,7 +104,7 @@
     "remark": "mahdibland/V2RayAggregator",
     "site": "https://github.com/mahdibland/V2RayAggregator",
     "url": "https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_base64.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 15,
