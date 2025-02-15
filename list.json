@@ -55,7 +55,7 @@
     "remark": "anaer/Sub",
     "site": "https://github.com/anaer/Sub",
     "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "remark": "Jsnzkpg/Jsnzkpg",
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 10,
@@ -104,7 +104,7 @@
     "remark": "mahdibland/V2RayAggregator",
     "site": "https://github.com/mahdibland/V2RayAggregator",
     "url": "https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_base64.txt",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 15,
@@ -118,20 +118,20 @@
     "remark": "Misaka-blog/chromego_merge",
     "site": "https://github.com/Misaka-blog/chromego_merge",
     "url": "https://raw.githubusercontent.com/Misaka-blog/chromego_merge/refs/heads/main/sub/base64.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 17,
     "remark": "ripaojiedian/freenode",
     "site": "https://github.com/ripaojiedian/freenode",
     "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 18,
     "remark": "peasoft/NoMoreWalls",
     "site": "https://github.com/peasoft/NoMoreWalls",
     "url": "https://github.com/peasoft/NoMoreWalls/raw/refs/heads/master/list.txt",
-    "enabled": true
+    "enabled": false
   }
 ]
