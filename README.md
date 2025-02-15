@@ -1,6 +1,6 @@
 ## V2ray-Nodes
 
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=mfuu.v2ray) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=actionsfz.v2ray) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 **该仓库仅对部分节点内容做了整合，避免重复添加链接。每8个小时自动更新，节点内容参考 `list.json`**
 
@@ -11,7 +11,8 @@
 
 
 **参考仓库**
-forked from [mfuu/v2ray](https://github.com/mfuu/v2ray)
+
+* forked from [mfuu/v2ray](https://github.com/mfuu/v2ray)
 * https://github.com/alanbobs999/TopFreeProxies
 
 ## HOST
