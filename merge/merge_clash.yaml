@@ -1,10 +1,10 @@
 proxies:
-- {name: 🇨🇳CN-103.181.165.246-000, server: awes35lesl.blhao0o.dpdns.org, port: 12031, type: ss, cipher: aes-128-gcm, password: 01721e43-5389-4f97-b21c-900abb2bda9e}
-- {name: 🏁RELAY-104.21.3.189-001, server: rak1ding.89060004.xyz, port: 2083, type: vmess, uuid: 75d96365-1229-4fc4-dbda-855717f876cf, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: rak1d3.988988.shop}}
-- {name: 🏁RELAY-104.17.147.22-002, server: www.speedtest.net, port: 443, type: vmess, uuid: e2fb28b8-a457-4bd2-801e-56fdcccbd88e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvkwsss, tls: true, ws-headers: {Host: blaze-cana-126.blazeservers1.site}}
-- {name: 🇨🇳CN-36.151.194.29-003, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: baidu.com}}
-- {name: 🇨🇳CN-36.151.194.29-004, server: v33.heduian.link, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: v33.heduian.link}}
-- {name: 🇺🇸US-160.79.104.214-005, server: 160.79.104.214, port: 8880, type: vmess, uuid: d1b75cc3-e618-37c4-9c55-ff11b4ed493b, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/dabai&Telegram🇨🇳@WangCai2/?ed=2560", tls: false, ws-headers: {Host: TG.WangCai2.s4.db-link02.top}}
+- {name: 🏁RELAY-172.67.208.136-000, server: ttfang.fange.me, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
+- {name: 🏁RELAY-86.38.214.194-001, server: 86.38.214.194, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=%2FTelegramU0001F1E8U0001F1F3", skip-cert-verify: true}
+- {name: 🇨🇳CN-36.151.194.29-002, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: baidu.com}}
+- {name: 🏁RELAY-104.17.147.22-003, server: www.speedtest.net, port: 80, type: vmess, uuid: 3d76ac40-80c4-11f0-b432-205c6d5f5d78, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /b87r3d9e, tls: false, ws-headers: {Host: zula.ir.eu-2.hihu.net}}
+- {name: 🇰🇿KZ-194.76.18.129-004, server: 194.76.18.129, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-172.67.191.174-005, server: gggggggggggggg.222769.xyz, port: 80, type: vmess, uuid: 2e65577e-8fdb-4bb1-a495-96f3122099a7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /f6taOMcOSZb9TPR, tls: false, ws-headers: {Host: gggggggggggggg.222769.xyz}}
 - {name: 🏁RELAY-5.10.214.194-006, server: 5.10.214.194, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=Telegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
 - {name: 🏁RELAY-5.10.215.194-007, server: 5.10.215.194, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=Telegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
 - {name: 🏁RELAY-5.10.244.194-008, server: 5.10.244.194, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=Telegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
@@ -146,14 +146,14 @@ proxies:
 - {name: 🇨🇳CN-36.150.215.141-144, server: 36.150.215.141, port: 1346, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-36.150.215.141-145, server: 36.150.215.141, port: 5439, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-103.181.165.246-146, server: awes35lesl.blhao0o.dpdns.org, port: 12031, type: ss, cipher: aes-128-gcm, password: 01721e43-5389-4f97-b21c-900abb2bda9e}
-- {name: 🇨🇳CN-183.240.211.97-147, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 🇨🇳CN-183.60.183.140-147, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
 - {name: 🇯🇵JP-137.220.191.40-148, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103}
 - {name: 🇨🇳CN-36.150.215.141-149, server: 36.150.215.141, port: 3171, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-36.151.251.45-150, server: 36.151.251.45, port: 1924, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-36.150.215.141-151, server: 36.150.215.141, port: 320, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-36.150.215.141-152, server: 36.150.215.141, port: 48397, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇷🇺RU-45.136.245.177-153, server: 45.136.245.177, port: 22100, type: vmess, uuid: 58abdfa2-3565-4280-9a98-a2c3e6f5c0ef, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 45.136.245.177}}
-- {name: 🇨🇳CN-183.240.211.97-154, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 🇨🇳CN-183.60.183.140-154, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
 - {name: 🇨🇳CN-36.150.215.141-155, server: 36.150.215.141, port: 480, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-36.150.215.141-156, server: 36.150.215.141, port: 22006, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: v1-dy.ixigua.com, skip-cert-verify: true}
 - {name: 🇮🇪IE-34.251.108.96-157, server: 34.251.108.96, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
@@ -167,11 +167,11 @@ proxies:
 - {name: 🇺🇸US-198.62.62.67-165, server: 198.62.62.67, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-172.67.208.136-166, server: ttfang.fange.me, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
 - {name: 🇺🇸US-216.24.57.30-167, server: 216.24.57.30, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🇨🇳CN-183.240.211.97-168, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-6BC1sDS0wf.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 🇨🇳CN-183.60.183.140-168, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-6BC1sDS0wf.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
 - {name: 🇯🇵JP-137.220.191.40-169, server: 137.220.191.40, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 823e135ed103}
-- {name: 🇨🇳CN-183.240.211.97-170, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-6BC1sDS0wf.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 🇭🇰HK-103.103.245.158-171, server: 103.103.245.158, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0}
-- {name: 🏁RELAY-141.101.120.239-172, server: 1000ip.yangmie.online, port: 8080, type: vmess, uuid: e9123cce-e4bd-46cf-8466-708b363a9807, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: gyde.aifjj.asia}}
+- {name: 🇭🇰HK-103.103.245.158-170, server: 103.103.245.158, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0}
+- {name: 🇨🇳CN-183.60.183.140-171, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-6BC1sDS0wf.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 🏁RELAY-141.101.121.148-172, server: 1000ip.yangmie.online, port: 8080, type: vmess, uuid: e9123cce-e4bd-46cf-8466-708b363a9807, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: gyde.aifjj.asia}}
 - {name: 🇨🇳CN-36.151.194.29-173, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: ocbc.com}}
 - {name: 🏁RELAY-104.17.147.22-174, server: www.speedtest.net, port: 80, type: vmess, uuid: 3d76ac40-80c4-11f0-b432-205c6d5f5d78, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /b87r3d9e, tls: false, ws-headers: {Host: zula.ir.eu-2.hihu.net}}
 - {name: 🇨🇳CN-36.151.194.29-175, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: ocbc.com}}
