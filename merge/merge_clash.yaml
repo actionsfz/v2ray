@@ -1,15 +1,15 @@
 proxies:
-- {name: 🇺🇸US-192.200.160.195-000, server: 192.200.160.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
-- {name: 🇹🇼TW-1.170.3.190-001, server: 1.170.3.190, port: 10106, type: ss, cipher: chacha20-ietf-poly1305, password: 5226fcab-0997-4f2a-900b-e896038cdf93}
-- {name: 🇨🇳CN-36.151.194.29-002, server: v39.heduian.link, port: 30839, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: baidu.com}}
-- {name: 🏁RELAY-188.164.248.195-003, server: 188.164.248.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram", skip-cert-verify: true}
-- {name: 🇺🇸US-199.68.156.195-004, server: 199.68.156.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66", skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.87-005, server: 192.200.160.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
-- {name: 🏁RELAY-194.36.55.195-006, server: 194.36.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
-- {name: 🏁RELAY-188.42.89.195-007, server: 188.42.89.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram", skip-cert-verify: true}
-- {name: 🏁RELAY-195.26.229.195-008, server: 195.26.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
-- {name: 🇹🇼TW-36.232.97.222-009, server: 36.232.97.222, port: 10151, type: ss, cipher: chacha20-ietf-poly1305, password: 1448a8fa-e2ce-4032-a081-e1a12fbd5a0a}
-- {name: 🏁RELAY-185.251.81.195-010, server: 185.251.81.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
+- {name: 🇦🇹AT-212.183.88.195-000, server: 212.183.88.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram", skip-cert-verify: true}
+- {name: 🏁RELAY-185.176.26.195-001, server: 185.176.26.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram", skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.63.195-002, server: 192.0.63.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
+- {name: 🇭🇰HK-219.73.0.199-003, server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: hkt.gotochinatown.net}}
+- {name: 🏁RELAY-185.59.218.195-004, server: 185.59.218.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
+- {name: 🇭🇰HK-47.83.16.29-005, server: 47.83.16.29, port: 30298, type: vmess, uuid: 602272c0-1916-41fe-9b53-f1efd149f9bf, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 47.83.16.29}}
+- {name: 🇨🇳CN-36.151.194.29-006, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: baidu.com}}
+- {name: 🇺🇸US-199.34.229.195-007, server: 199.34.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram", skip-cert-verify: true}
+- {name: 🇺🇸US-15.204.248.103-008, server: 15.204.248.103, port: 443, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, sni: rs3.freeguard.org, skip-cert-verify: true}
+- {name: 🏁RELAY-185.251.82.195-009, server: 185.251.82.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
+- {name: 🏁RELAY-185.176.24.195-010, server: 185.176.24.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegramU0001F1E8U0001F1F3", skip-cert-verify: true}
 - {name: 🇭🇰HK-43.198.184.150-011, server: 43.198.184.150, port: 2282, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: fe2.update.microsoft.com, skip-cert-verify: true}
 - {name: 🇯🇵JP-43.207.109.168-012, server: xingxing.jiasu123.org, port: 316, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: true}
 - {name: 🇯🇵JP-43.207.109.168-013, server: xingxing.jiasu123.org, port: 3957, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: true}
@@ -122,7 +122,7 @@ proxies:
 - {name: 🇸🇪SE-51.21.249.115-120, server: 51.21.249.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇨🇳CN-36.151.194.29-121, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: baidu.com}}
 - {name: 🇸🇨SC-156.251.179.135-122, server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5}
-- {name: 🇭🇰HK-119.237.29.5-123, server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: hkt.gotochinatown.net}}
+- {name: 🇭🇰HK-219.73.0.199-123, server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: hkt.gotochinatown.net}}
 - {name: 🇭🇰HK-218.103.249.91-124, server: 218.103.249.91, port: 443, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: true}
 - {name: 🇭🇰HK-43.199.230.110-125, server: 43.199.230.110, port: 16888, type: ss, cipher: aes-256-gcm, password: amazongreatvpn}
 - {name: 🇭🇰HK-43.198.184.150-126, server: 43.198.184.150, port: 2282, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: fe2.update.microsoft.com, skip-cert-verify: true}
@@ -213,35 +213,73 @@ proxies:
 - {name: 🇺🇸US-199.34.230.195-211, server: 199.34.230.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
 - {name: 🇺🇸US-192.0.63.195-212, server: 192.0.63.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, ws-path: "h=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3", skip-cert-verify: true}
 - {name: 🇨🇳CN-183.240.211.97-213, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202509031722041-UO2JxEthna.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 🇯🇵JP-137.220.142.150-214, server: 137.220.142.150, port: "443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fwrdfiatyd%3Bhost%3Djpxw9v1.dashengjs.net%3Btls", type: ss, cipher: aes-256-gcm, password: 8a6ca14c0936}
+- {name: 🇸🇨SC-156.251.179.135-214, server: 156.251.179.135, port: "443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Faqwshiog%3Bhost%3Dhk6v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5}
 - {name: 🇨🇳CN-183.240.211.97-215, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202509031722041-UO2JxEthna.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 🇸🇨SC-156.251.179.135-216, server: 156.251.179.135, port: "443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Faqwshiog%3Bhost%3Dhk6v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5}
-- {name: 🏁RELAY-185.238.228.195-217, server: 185.238.228.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.18.184.195-218, server: 185.18.184.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-195.26.229.87-219, server: 195.26.229.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-198.62.62.87-220, server: 198.62.62.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-188.42.145.87-221, server: 188.42.145.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.7.240.195-222, server: 185.7.240.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-188.244.122.195-223, server: 188.244.122.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-195.26.229.195-224, server: 195.26.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-188.244.122.87-225, server: 188.244.122.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-192.0.54.195-226, server: 192.0.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.229.87-227, server: 199.34.229.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.87-228, server: 192.200.160.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-194.36.55.195-229, server: 194.36.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-199.181.197.195-230, server: 199.181.197.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.230.195-231, server: 199.34.230.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.156.19.195-232, server: 185.156.19.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.251.80.195-233, server: 185.251.80.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-209.94.90.195-234, server: 209.94.90.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.148.104.195-235, server: 185.148.104.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-195.13.44.195-236, server: 195.13.44.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-195.13.54.195-237, server: 195.13.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-195.13.45.195-238, server: 195.13.45.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-192.65.217.195-239, server: 192.65.217.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-209.46.30.195-240, server: 209.46.30.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🏁RELAY-185.18.250.195-241, server: 185.18.250.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.229.195-242, server: 199.34.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
-- {name: 🇨🇳CN-36.151.194.29-243, server: v35.heduian.link, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: v35.heduian.link}}
-- {name: 🇨🇳CN-36.151.194.29-244, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: v29.heduian.link}}
-- {name: 🏁RELAY-104.21.30.167-245, server: ssssssssssssfffffffgh.2032.pp.ua, port: 443, type: vmess, uuid: 4174b95d-115e-4d39-add6-1f8db95bb860, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /6We3U9Df1WGxgFnoFPw1, tls: true, ws-headers: {Host: ssssssssssssfffffffgh.2032.pp.ua}}
+- {name: 🇯🇵JP-137.220.142.150-216, server: 137.220.142.150, port: "443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fwrdfiatyd%3Bhost%3Djpxw9v1.dashengjs.net%3Btls", type: ss, cipher: aes-256-gcm, password: 8a6ca14c0936}
+- {name: 🏁RELAY-195.13.44.87-217, server: 195.13.44.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-216.24.57.87-218, server: 216.24.57.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-199.68.156.195-219, server: 199.68.156.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-204.93.210.87-220, server: 204.93.210.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-198.177.57.87-221, server: 198.177.57.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-209.46.30.87-222, server: 209.46.30.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.18.184.195-223, server: 185.18.184.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.251.81.195-224, server: 185.251.81.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-205.233.181.87-225, server: 205.233.181.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-199.181.197.87-226, server: 199.181.197.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.87-227, server: 199.34.228.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-193.9.49.87-228, server: 193.9.49.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇲🇾MY-103.186.117.229-229, server: 103.186.117.229, port: 45497, type: vmess, uuid: 2e257f9c-fa0e-442f-f53c-6a452924c0c2, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.186.117.229}}
+- {name: 🇺🇸US-199.34.229.87-230, server: 199.34.229.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.54.195-231, server: 192.0.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.42.145.195-232, server: 188.42.145.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.221.160.195-233, server: 185.221.160.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇦🇹AT-212.183.88.87-234, server: 212.183.88.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-15.204.248.103-235, server: 15.204.248.103, port: 443, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, sni: rs3.freeguard.org, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.87-236, server: 192.200.160.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.18.250.195-237, server: 185.18.250.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.54.87-238, server: 192.0.54.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.63.87-239, server: 192.0.63.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.148.106.195-240, server: 185.148.106.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.63.195-241, server: 192.0.63.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-199.181.197.195-242, server: 199.181.197.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.176.26.195-243, server: 185.176.26.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-195.13.55.195-244, server: 195.13.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.244.122.195-245, server: 188.244.122.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.251.80.195-246, server: 185.251.80.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-195.13.45.195-247, server: 195.13.45.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.148.104.195-248, server: 185.148.104.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.230.195-249, server: 199.34.230.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-198.62.62.87-250, server: 198.62.62.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.251.82.195-251, server: 185.251.82.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.42.89.195-252, server: 188.42.89.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.174.138.195-253, server: 185.174.138.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.59.218.195-254, server: 185.59.218.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-193.9.49.195-255, server: 193.9.49.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇰🇿KZ-194.76.18.195-256, server: 194.76.18.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-193.124.224.195-257, server: 193.124.224.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.229.195-258, server: 199.34.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.148.105.195-259, server: 185.148.105.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-194.36.55.195-260, server: 194.36.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-195.13.54.195-261, server: 195.13.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-195.13.44.195-262, server: 195.13.44.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-195.26.229.195-263, server: 195.26.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.248.87-264, server: 188.164.248.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-192.65.217.195-265, server: 192.65.217.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.195-266, server: 192.200.160.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.42.88.195-267, server: 188.42.88.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.176.24.195-268, server: 185.176.24.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.7.240.195-269, server: 185.7.240.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.248.195-270, server: 188.164.248.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-198.62.62.195-271, server: 198.62.62.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.148.107.195-272, server: 185.148.107.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.251.83.195-273, server: 185.251.83.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-205.233.181.195-274, server: 205.233.181.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-216.24.57.195-275, server: 216.24.57.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-209.46.30.195-276, server: 209.46.30.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.156.19.195-277, server: 185.156.19.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇫🇷FR-185.16.110.195-278, server: 185.16.110.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-185.238.228.195-279, server: 185.238.228.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇦🇹AT-212.183.88.195-280, server: 212.183.88.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🇺🇸US-209.94.90.195-281, server: 209.94.90.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.30.167-282, server: ssssssssssssfffffffgh.2032.pp.ua, port: 443, type: vmess, uuid: 4174b95d-115e-4d39-add6-1f8db95bb860, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /6We3U9Df1WGxgFnoFPw1, tls: true, ws-headers: {Host: ssssssssssssfffffffgh.2032.pp.ua}}
+- {name: 🇨🇳CN-36.151.194.29-283, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /oooo, tls: false, ws-headers: {Host: ocbc.com}}
