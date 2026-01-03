@@ -1,32 +1,32 @@
 proxies:
-- {name: 🇭🇰HK-202.85.53.179-00, server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v12.hdacd.com}}
-- {name: 🇭🇰HK-202.85.53.179-01, server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v12.hdacd.com}}
-- {name: 🇩🇪DE-82.198.246.97-02, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
-- {name: 🏁RELAY-104.21.76.158-03, server: c7.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: c7.620720.xyz}}
+- {name: 🇺🇸US-173.244.56.6-00, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+- {name: 🇭🇰HK-58.152.25.86-01, server: 58.152.25.86, port: 443, type: trojan, password: BxceQaOe, sni: "t.me%2Fripaojiedian", skip-cert-verify: true}
+- {name: 🇭🇰HK-58.152.46.60-02, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: "%20%5BBy%20DukeMehdi%5D%20trojan-HK%20", skip-cert-verify: true}
+- {name: 🇨🇦CA-198.57.27.27-03, server: 198.57.27.27, port: 12990, type: trojan, password: 6pRjKQJ0CWyFtG.9, skip-cert-verify: true}
 - {name: 🇭🇰HK-202.85.53.179-04, server: 202.85.53.179, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 202.85.53.179}}
 - {name: 🇳🇬NG-160.119.196.92-05, server: 160.119.196.92, port: 36334, type: vmess, uuid: 575ac7a3-0127-4420-a9ea-5ff3f6c02ac7, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 160.119.196.92}}
 - {name: 🇷🇺RU-203.189.233.25-06, server: ru2.nnvpn.io, port: 443, type: trojan, password: yUHNMwWvenoHBaN5CtqKPwt1CTzXgW, sni: "ru2.nnvpn.ioh2%2Chttp%2F1.1", skip-cert-verify: true}
 - {name: 🇹🇼TW-220.130.58.136-07, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: d0ef8c56-712c-4d95-bb21-11369165d684, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
 - {name: 🇭🇰HK-202.85.53.179-08, server: v35.hdacd.com, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v35.hdacd.com}}
 - {name: 🇩🇪DE-82.198.246.97-09, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
-- {name: 🏁RELAY-172.67.73.246-10, server: blueivy.qzz.io, port: 443, type: trojan, password: da943f80-91e6-46df-b7ba-c6ecf28e0171, sni: blueivy.qzz.io, ws-path: "h=%2F192.252.182.52%3A7602", skip-cert-verify: true}
-- {name: 🏁RELAY-172.66.171.30-11, server: bisque.qzz.io, port: 443, type: trojan, password: e86364fb-a5e3-42c3-b7fa-6ce8097fe19f, sni: bisque.qzz.io, ws-path: "h=%2F66.135.4.222%3A8443", skip-cert-verify: true}
+- {name: 🏁RELAY-104.26.11.57-10, server: blueivy.qzz.io, port: 443, type: trojan, password: da943f80-91e6-46df-b7ba-c6ecf28e0171, sni: blueivy.qzz.io, ws-path: "h=%2F192.252.182.52%3A7602", skip-cert-verify: true}
+- {name: 🏁RELAY-104.20.39.88-11, server: bisque.qzz.io, port: 443, type: trojan, password: e86364fb-a5e3-42c3-b7fa-6ce8097fe19f, sni: bisque.qzz.io, ws-path: "h=%2F66.135.4.222%3A8443", skip-cert-verify: true}
 - {name: 🏁RELAY-172.64.229.83-12, server: 172.64.229.83, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-172.64.229.33-13, server: 172.64.229.33, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-188.114.97.3-14, server: 188.114.97.3, port: 443, type: trojan, password: cf142ac0-4bae-4c4b-9882-21fc0550a661, sni: red-dream-2d6c.xepis84786.workers.dev, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.20.28.242-15, server: seashell.qzz.io, port: 443, type: trojan, password: 13e71ddb-908c-45e0-993c-da482d848c88, sni: seashell.qzz.io, ws-path: "h=%2F156.254.114.120%3A30011", skip-cert-verify: true}
-- {name: 🏁RELAY-104.18.3.150-16, server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-172.66.158.183-15, server: seashell.qzz.io, port: 443, type: trojan, password: 13e71ddb-908c-45e0-993c-da482d848c88, sni: seashell.qzz.io, ws-path: "h=%2F156.254.114.120%3A30011", skip-cert-verify: true}
+- {name: 🏁RELAY-104.18.2.150-16, server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-172.67.75.172-17, server: ip.sb, port: 8443, type: trojan, password: trojan, sni: fofang.pages.dev, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.17.148.22-18, server: www.speedtest.net, port: 443, type: trojan, password: cf142ac0-4bae-4c4b-9882-21fc0550a661, sni: red-dream-2d6c.xepis84786.workers.dev, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-172.64.229.34-19, server: 777.ai7777777.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.17.147.22-18, server: www.speedtest.net, port: 443, type: trojan, password: cf142ac0-4bae-4c4b-9882-21fc0550a661, sni: red-dream-2d6c.xepis84786.workers.dev, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-172.64.229.113-19, server: 777.ai7777777.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🇯🇵JP-172.111.146.64-20, server: 172.111.146.64, port: 80, type: vmess, uuid: 05b8c783-7f59-47f9-9923-06a465679f6a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess/, tls: false, ws-headers: {Host: 172.111.146.64}}
 - {name: 🏁RELAY-162.159.24.131-21, server: 162.159.24.131, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🇭🇰HK-47.242.31.79-22, server: n1761214904.wpg27.xyz, port: 443, type: vmess, uuid: 7f6f64ae-3778-434c-adfc-95cb67ee8b73, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: n1761214904.wpg27.xyz}}
-- {name: 🏁RELAY-172.64.145.93-23, server: www.shopify.com, port: 2096, type: trojan, password: f52d0a04-94ad-4f9e-9945-4c3d43374e36, sni: ts888.yumige.dpdns.org, ws-path: "h=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.18.42.163-23, server: www.shopify.com, port: 2096, type: trojan, password: f52d0a04-94ad-4f9e-9945-4c3d43374e36, sni: ts888.yumige.dpdns.org, ws-path: "h=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-167.68.4.199-24, server: 167.68.4.199, port: 2053, type: trojan, password: Aimer, sni: epge.muarua.filegear-sg.me, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🇨🇳CN-43.100.32.11-25, server: n1747624271.lie5d.cyou, port: 443, type: vmess, uuid: a231ba8b-8871-416c-813b-e2240bc66bb2, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: n1747624271.lie5d.cyou}}
 - {name: 🏁RELAY-172.67.197.47-26, server: t1.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: t1.620720.xyz}}
-- {name: 🏁RELAY-141.101.120.7-27, server: freeyx.cloudflare88.eu.org, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-141.101.120.110-27, server: freeyx.cloudflare88.eu.org, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: "🇫🇷FR-"2001:bc8:32d7:302::10"-28", server: "2001:bc8:32d7:302::10", port: 44579, type: vmess, uuid: 8e34e170-13ae-4892-9d20-05962acc9f84, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: AZERB.NET}}
 - {name: 🇺🇸US-158.101.11.204-29, server: 158.101.11.204, port: 15805, type: trojan, password: iwangjie, sni: nodes.830901.xyz, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-104.26.1.110-30, server: 104.26.1.110, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
@@ -38,13 +38,13 @@ proxies:
 - {name: 🇫🇷FR-57.128.189.240-36, server: 57.128.189.240, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: 57.128.189.240}}
 - {name: 🇲🇩MD-94.131.108.36-37, server: 94.131.108.36, port: 443, type: vmess, uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 94.131.108.36}}
 - {name: 🇺🇸US-209.126.84.189-38, server: v2ray.codefyinc.com, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmessws, tls: false, ws-headers: {Host: v2ray.codefyinc.com}}
-- {name: 🏁RELAY-104.16.149.244-39, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.16.149.244-40, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.17.100.185-39, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.16.249.141-40, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-104.17.167.134-41, server: 104.17.167.134, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.16.249.141-42, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-162.159.153.72-42, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-104.21.94.161-43, server: cf.130519.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-172.67.138.17-44, server: cf.130519.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.21.94.161-45, server: cf.130519.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-162.159.153.72-46, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.94.161-44, server: cf.130519.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-172.67.138.17-45, server: cf.130519.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.16.249.141-46, server: one.cf.cdn.hyli.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: snippets.kkii.eu.org, ws-path: "h=%2F%2F", skip-cert-verify: true}
 - {name: 🇩🇪DE-82.198.246.97-47, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
 - {name: 🇭🇰HK-202.85.53.179-48, server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v12.hdacd.com}}
