@@ -1,10 +1,10 @@
 proxies:
-- {name: 🇨🇳CN-120.198.71.187-000, server: 120.198.71.187, port: 47084, type: vmess, uuid: bde21c3b-7580-4286-a79c-5dc54cf297e0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.198.71.187}}
-- {name: 🇭🇰HK-58.152.53.219-001, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: "t.me%252Fripaojiedian", skip-cert-verify: true}
-- {name: 🇨🇳CN-120.198.71.187-002, server: tunnel2.qqa678.com, port: 47084, type: vmess, uuid: bde21c3b-7580-4286-a79c-5dc54cf297e0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: tunnel2.qqa678.com}}
-- {name: 🇭🇰HK-58.152.46.60-003, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: "%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.io%2Fv2ray-configs%20%7C%20885%20", skip-cert-verify: true}
-- {name: 🇭🇰HK-16.163.104.139-004, server: 16.163.104.139, port: 381, type: trojan, password: BxceQaOe, sni: "t.me%252Fripaojiedian", skip-cert-verify: true}
-- {name: 🇭🇰HK-58.152.25.130-005, server: 58.152.25.130, port: 443, type: trojan, password: BxceQaOe, sni: "t.me%252Fripaojiedian", skip-cert-verify: true}
+- {name: 🇺🇸US-206.119.191.9-000, server: 206.119.191.9, port: 7100, type: vmess, uuid: 10853485-26e1-477b-d257-58a3f4873db3, alterId: 0, cipher: auto, skip-cert-verify: true, network: none, ws-path: /, tls: false, ws-headers: {Host: 206.119.191.9}}
+- {name: 🇹🇼TW-220.130.58.136-001, server: 220.130.58.136, port: 31101, type: trojan, password: d30c2d87-9541-4681-a912-e51e190bad2a, sni: 220.130.58.136, skip-cert-verify: true}
+- {name: 🇨🇳CN-120.198.71.187-002, server: tunnel2.qqa678.com, port: 47081, type: vmess, uuid: bde21c3b-7580-4286-a79c-5dc54cf297e0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: tunnel2.qqa678.com}}
+- {name: 🇨🇳CN-120.198.71.187-003, server: oss-4.qqa678.com, port: 47081, type: vmess, uuid: e49b8721-f124-4999-814a-fc777c0ae190, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: oss-4.qqa678.com}}
+- {name: 🇩🇪DE-82.198.246.97-004, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
+- {name: 🇺🇸US-23.138.148.47-005, server: 23.138.148.47, port: 42507, type: vmess, uuid: 4db07b13-6524-49d2-b432-1f312c0e9c7c, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 23.138.148.47}}
 - {name: 🇭🇰HK-58.152.46.60-006, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: "%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Btrojan-HK%2B", skip-cert-verify: true}
 - {name: 🇭🇰HK-58.152.46.60-007, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: "t.me%252Fripaojiedian", skip-cert-verify: true}
 - {name: 🇭🇰HK-58.152.46.60-008, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: "%F0%9F%94%92%2B%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B783%2B", skip-cert-verify: true}
