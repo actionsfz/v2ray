@@ -1,7 +1,7 @@
 proxies:
 - {name: 🇭🇰HK-8.217.90.175-000, server: 8.217.90.175, port: 51000, type: vmess, uuid: 6c82a994-b6ba-48ca-f2ed-11288fe4913b, alterId: 0, cipher: auto, skip-cert-verify: true, network: none, ws-path: /, tls: false, ws-headers: {Host: 8.217.90.175}}
-- {name: 🇲🇽MX-216.238.86.158-001, server: 216.238.86.158, port: 34460, type: vmess, uuid: 90be214d-048c-4ea2-a602-b8e4d4e51e36, alterId: 0, cipher: auto, skip-cert-verify: true, network: none, ws-path: /, tls: false, ws-headers: {Host: 216.238.86.158}}
-- {name: 🇩🇪DE-82.198.246.97-002, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
+- {name: 🇭🇰HK-8.217.90.175-001, server: 8.217.90.175, port: 51000, type: vmess, uuid: 6c82a994-b6ba-48ca-f2ed-11288fe4913b, alterId: 0, cipher: auto, skip-cert-verify: true, network: none, ws-path: /, tls: false, ws-headers: {Host: 8.217.90.175}}
+- {name: 🇹🇼TW-220.130.58.136-002, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: c91410bb-b777-4daf-988b-d5445d143e6b, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
 - {name: 🇭🇰HK-58.152.18.147-003, server: 58.152.18.147, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
 - {name: 🇭🇰HK-58.152.53.219-004, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: 58.152.53.219, skip-cert-verify: true}
 - {name: 🇭🇰HK-58.152.53.219-005, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: "%F0%9F%94%92%2B%5BBy%2BEbraSha%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B400%2B", skip-cert-verify: true}
