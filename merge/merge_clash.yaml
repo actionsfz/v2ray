@@ -1,11 +1,11 @@
 proxies:
-- {name: 🇺🇦UA-163.171.137.72-000, server: 163.171.137.72, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d27faed8a9b98bd0}
-- {name: 🇭🇰HK-202.85.53.205-001, server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v12.hdacd.com}}
-- {name: 🇱🇻LV-196.240.54.10-002, server: lv.vpnsparta.pro, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 8afc633eb63227e9}
-- {name: 🇩🇪DE-45.32.158.138-003, server: 45.32.158.138, port: 20994, type: trojan, password: x.8ur1QiCyzlRHXeaB5UwoDfgZ04s, sni: ads.x5.ru, skip-cert-verify: true}
-- {name: 🇩🇪DE-82.198.246.97-004, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.97}}
-- {name: 🇮🇸IS-167.17.185.172-005, server: 167.17.185.172, port: 10889, type: trojan, password: cTv.9PDdCt-wybBrG1qlxI5UJuaEj, sni: web.max.ru, skip-cert-verify: true}
-- {name: 🇺🇸US-15.204.74.40-006, server: 15.204.74.40, port: 13021, type: ss, cipher: chacha20-ietf-poly1305, password: 913fcc3aeb16eba3}
+- {name: 🏁RELAY-172.67.204.84-000, server: 172.67.204.84, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /nasnet/cdn, tls: false, ws-headers: {Host: nasnet-511952424.mcitel.co}}
+- {name: 🇩🇪DE-45.32.158.138-001, server: 45.32.158.138, port: 20994, type: trojan, password: x.8ur1QiCyzlRHXeaB5UwoDfgZ04s, sni: ads.x5.ru, skip-cert-verify: true}
+- {name: 🇺🇸US-15.204.74.40-002, server: 15.204.74.40, port: 13021, type: ss, cipher: chacha20-ietf-poly1305, password: 913fcc3aeb16eba3}
+- {name: 🇮🇸IS-167.17.185.172-003, server: 167.17.185.172, port: 10889, type: trojan, password: cTv.9PDdCt-wybBrG1qlxI5UJuaEj, sni: web.max.ru, skip-cert-verify: true}
+- {name: 🇳🇴NO-80.173.230.196-004, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: true}
+- {name: 🇸🇬SG-13.212.104.36-005, server: ss.037.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53}
+- {name: 🇫🇮FI-212.193.18.144-006, server: 212.193.18.144, port: 36158, type: trojan, password: ZblhWr0mqMakCPg.N, sni: ya.ru, skip-cert-verify: true}
 - {name: 🏁RELAY-104.19.173.68-007, server: www.digitalocean.com, port: 443, type: trojan, password: trojan, sni: azadnet-9ya.pages.dev, ws-path: "h=%2F%3Fed%3D2560", skip-cert-verify: true}
 - {name: 🏁RELAY-172.67.75.172-008, server: ip.sb, port: 443, type: trojan, password: trojan, sni: nixian.pages.dev, ws-path: "h=%2F%3Fed%3D2560%2F%3FJoin-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-Join-sho--Telegram--VITUREY-", skip-cert-verify: true}
 - {name: 🇹🇼TW-111.243.96.31-009, server: tuntro011.instconn.com, port: 40130, type: trojan, password: 30077070-596e-48ea-9400-14c8ed07bd97, sni: cntwbta.686911.xyz, skip-cert-verify: true}
