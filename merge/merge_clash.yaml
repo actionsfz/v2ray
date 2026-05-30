@@ -1,9 +1,9 @@
 proxies:
-- {name: 🇹🇼TW-211.76.176.98-000, server: 211.76.176.98, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: true}
-- {name: 🇺🇸US-155.254.126.249-001, server: gtm-sg-cc54q7d1q01.365cloud0285.com, port: 6001, type: vmess, uuid: a030842a-d29a-4ea9-a776-14fc4b9e102d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: gtm-sg-cc54q7d1q01.365cloud0285.com}}
-- {name: 🇺🇸US-23.227.193.173-002, server: 23.227.193.173, port: 443, type: trojan, password: AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ, sni: www.dataset-logger.click, skip-cert-verify: true}
-- {name: 🇮🇳IN-65.20.90.225-003, server: 65.20.90.225, port: 443, type: trojan, password: Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg, sni: www.sandbox-cloud.click, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.181.164.145-004, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.181.164.145}}
+- {name: 🇹🇼TW-211.76.176.98-000, server: jpbgp.netvigor.cc, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: true}
+- {name: 🇺🇸US-149.28.255.6-001, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4}
+- {name: 🇩🇪DE-82.198.246.250-002, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.250}}
+- {name: 🇹🇼TW-36.224.187.125-003, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4}
+- {name: 🏁RELAY-104.20.6.134-004, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
 - {name: 🇭🇰HK-103.181.164.145-005, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.181.164.145}}
 - {name: 🇭🇰HK-103.181.164.145-006, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.181.164.145}}
 - {name: 🇭🇰HK-103.181.164.145-007, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.181.164.145}}
@@ -155,9 +155,9 @@ proxies:
 - {name: 🇩🇪DE-82.198.246.9-153, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.198.246.9}}
 - {name: 🇵🇱PL-82.40.62.106-154, server: 82.40.62.106, port: 2080, type: vmess, uuid: cd682302-c9d7-4c0d-bada-52e7d652c22c, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 82.40.62.106}}
 - {name: 🇺🇸US-84.17.41.2-155, server: 84.17.41.2, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 84.17.41.2}}
-- {name: 🇺🇸US-155.117.198.87-156, server: 90081bb25c.node.tro.cac.cab, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.82-157, server: 90081bb25c.node.tro.cac.cab, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.87-158, server: 90081bb25c.node.tro.cac.cab, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇺🇸US-155.117.198.86-156, server: 90081bb25c.node.tro.cac.cab, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇺🇸US-155.117.198.86-157, server: 90081bb25c.node.tro.cac.cab, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇺🇸US-155.117.198.86-158, server: 90081bb25c.node.tro.cac.cab, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
 - {name: 🇩🇪DE-91.233.8.138-159, server: 91.233.8.138, port: 443, type: trojan, password: qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq, sni: www.homelywebs.click, skip-cert-verify: true}
 - {name: 🇩🇪DE-91.107.244.117-160, server: azmononline.konkuriran.sbs, port: 2080, type: vmess, uuid: cd682302-c9d7-4c0d-bada-52e7d652c22c, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: azmononline.konkuriran.sbs}}
 - {name: 🇩🇪DE-91.107.244.117-161, server: azmononline.konkuriran.sbs, port: 2080, type: vmess, uuid: cd682302-c9d7-4c0d-bada-52e7d652c22c, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: azmononline.konkuriran.sbs}}
@@ -181,9 +181,9 @@ proxies:
 - {name: 🇨🇾CY-5.253.40.235-179, server: ro.connfull.org, port: 2053, type: vmess, uuid: 9a6be41d-511a-4800-b828-368ca32dd56d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: ro.connfull.org}}
 - {name: 🇺🇸US-172.236.244.171-180, server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: usaapp1.jisuyun.top}}
 - {name: 🇮🇩ID-48.193.43.190-181, server: v29.hdacd.com, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v29.hdacd.com}}
-- {name: 🇮🇩ID-70.153.148.228-182, server: v45.hdacd.com, port: 30845, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v45.hdacd.com}}
-- {name: 🇲🇾MY-85.211.197.152-183, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v6.hdacd.com}}
-- {name: 🏁RELAY-104.18.8.83-184, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🇮🇩ID-48.193.40.99-182, server: v45.hdacd.com, port: 30845, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v45.hdacd.com}}
+- {name: 🇮🇩ID-70.153.148.228-183, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v6.hdacd.com}}
+- {name: 🏁RELAY-104.18.9.83-184, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
 - {name: 🏁RELAY-104.18.1.55-185, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
 - {name: 🏁RELAY-104.18.23.63-186, server: www.ignitelimit.com, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
 - {name: 🏁RELAY-104.18.11.110-187, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
