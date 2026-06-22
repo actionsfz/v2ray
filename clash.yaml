@@ -1,53 +1,36 @@
 proxies:
-- {name: 🇩🇪DE-185.137.157.250-00, server: 185.137.157.250, port: 443, type: trojan, password: n-S5Kuz58YgwljisuLEJltip2OWf1ourWz, sni: fra250.clientfirewall.click, skip-cert-verify: true}
-- {name: 🇺🇸US-38.54.64.247-01, server: 38.54.64.247, port: 443, type: trojan, password: ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk, skip-cert-verify: true}
-- {name: 🏁RELAY-104.20.6.134-02, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
-- {name: 🇨🇳CN-61.171.92.202-03, server: 61.171.92.202, port: 1001, type: ss, cipher: aes-256-gcm, password: 123}
-- {name: 🇦🇶GOOGLE-34.146.99.61-04, server: v29.hdacd.com, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v29.hdacd.com}}
-- {name: 🇦🇶GOOGLE-136.110.9.28-05, server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: v36.hdacd.com}}
-- {name: 🇻🇳VN-160.250.247.70-06, server: 160.250.247.70, port: 49178, type: vmess, uuid: d7c13e10-2ba9-4677-a877-d9e9d1738394, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: varzesh3.com}}
-- {name: 🇺🇸US-155.117.198.90-07, server: 90081bb25c.node.tro.cac.cab, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.84-08, server: 90081bb25c.node.tro.cac.cab, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.89-09, server: 90081bb25c.node.tro.cac.cab, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.89-10, server: 90081bb25c.node.tro.cac.cab, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.82-11, server: 90081bb25c.node.tro.cac.cab, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.87-12, server: 90081bb25c.node.tro.cac.cab, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇰🇷KR-211.49.57.161-13, server: 211.49.57.161, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🇰🇷KR-130.162.132.38-14, server: 130.162.132.38, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-15, server: 103.177.136.42, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-16, server: 103.177.136.45, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-17, server: 103.177.136.42, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-18, server: 103.177.136.42, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-147.90.234.133-19, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2}
-- {name: 🇺🇸US-71.19.148.74-20, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T}
-- {name: 🇺🇸US-155.117.198.86-21, server: 155.117.198.86, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.82-22, server: 155.117.198.82, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.87-23, server: 155.117.198.87, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.87-24, server: 155.117.198.87, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.83-25, server: 155.117.198.83, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.83-26, server: 155.117.198.83, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.86-27, server: 155.117.198.86, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.87-28, server: 155.117.198.87, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇺🇸US-155.117.198.86-29, server: 155.117.198.86, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇯🇵JP-47.79.87.167-30, server: 47.79.87.167, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇯🇵JP-47.79.37.210-31, server: 47.79.37.210, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🏁RELAY-172.67.70.92-32, server: cloudflare-ip.mofashi.ltd, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🏁RELAY-104.17.25.173-33, server: yx.cloudflare.182682.xyz, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🏁RELAY-104.21.94.161-34, server: cf.130519.xyz, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🏁RELAY-104.18.38.47-35, server: mfa.gov.ua, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇸🇬SG-47.82.162.142-36, server: 47.82.162.142, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇯🇵JP-54.248.143.139-37, server: 54.248.143.139, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇸🇬SG-8.219.198.57-38, server: 8.219.198.57, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: tjsp.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🇸🇬SG-18.138.34.221-39, server: 18.138.34.221, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇸🇬SG-18.143.76.130-40, server: 18.143.76.130, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇸🇬SG-8.222.185.236-41, server: 8.222.185.236, port: 443, type: ss, cipher: aes-128-gcm, password: eeb6823c-b926-4ea2-866a-5542edd26e59}
-- {name: 🇭🇰HK-1.36.0.103-42, server: jpbgp.netvigor.cc, port: 19128, type: trojan, password: OccIqeORGQwiNkwS, sni: yazhou10.dynu.net, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-43, server: 103.177.136.42, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-44, server: 103.177.136.45, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-45, server: 103.177.136.45, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-46, server: 103.177.136.42, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.42-47, server: 103.177.136.42, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-48, server: 103.177.136.45, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-49, server: 103.177.136.45, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-50, server: 103.177.136.45, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.177.136.45-51, server: 103.177.136.45, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇺🇸US-144.31.55.35-00, server: 144.31.55.35, port: 28126, type: trojan, password: oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b, sni: www.game-bridge.click, skip-cert-verify: true}
+- {name: 🇦🇹AT-185.126.236.190-01, server: 185.126.236.190, port: 443, type: trojan, password: "VGBzLm49%3DM_i02Az30tIeonkQw180t-edg", sni: 185.126.236.190, skip-cert-verify: true}
+- {name: 🏁RELAY-104.16.71.213-02, server: 104.16.71.213, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🇩🇪DE-185.137.157.250-03, server: 185.137.157.250, port: 443, type: trojan, password: n-S5Kuz58YgwljisuLEJltip2OWf1ourWz, sni: fra250.clientfirewall.click, skip-cert-verify: true}
+- {name: 🇩🇪DE-209.38.230.221-04, server: vip3.sanaiehdasti.com, port: 1546, type: vmess, uuid: 6c5fcae3-16e8-4a93-b28e-05588d5d9342, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: play.google.com}}
+- {name: 🇭🇰HK-103.177.136.45-05, server: 103.177.136.45, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.175-06, server: 211.49.57.175, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: 211.49.57.175, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.178-07, server: 211.49.57.178, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: 211.49.57.178, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.161-08, server: 211.49.57.161, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: 211.49.57.161, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-09, server: 103.177.136.45, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-10, server: 103.177.136.45, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-11, server: 103.177.136.42, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-12, server: 103.177.136.42, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-13, server: 103.177.136.45, port: 45553, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: ch.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-14, server: 103.177.136.42, port: 46424, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: de.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-15, server: 103.177.136.45, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇯🇵JP-18.182.54.28-16, server: 18.182.54.28, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.175-17, server: 211.49.57.175, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇺🇸US-165.215.250.14-18, server: 165.215.250.14, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.161-19, server: 211.49.57.161, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇺🇸US-45.59.184.78-20, server: 45.59.184.78, port: 8443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-188.114.96.3-21, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🏁RELAY-45.80.111.7-22, server: srv1.khatibirepair.ir, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🇯🇵JP-18.182.54.28-23, server: 18.182.54.28, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇯🇵JP-18.182.54.28-24, server: 18.182.54.28, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-25, server: 103.177.136.42, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-26, server: 103.177.136.42, port: 41943, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: az.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-27, server: 103.177.136.45, port: 48697, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: gh.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.45-28, server: 103.177.136.45, port: 47909, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: is.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.177.136.42-29, server: 103.177.136.42, port: 45619, type: trojan, password: 4f4d1167-ef14-4304-9bce-0740472503ef, sni: fr.01.naiun.bilibili.com, skip-cert-verify: true}
+- {name: 🇺🇸US-165.215.250.14-30, server: 165.215.250.14, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🏁RELAY-45.80.111.7-31, server: srv1.khatibirepair.ir, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, ws-path: "h=%2Fassignment", skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.38.41-32, server: shazira.app, port: 443, type: trojan, password: 257d8622-6701-4c98-a432-67a9696f58ae, sni: shazira.app, ws-path: "h=%2FNovan-ID9", skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.175-33, server: 211.49.57.175, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇰🇷KR-211.49.57.161-34, server: 211.49.57.161, port: 443, type: trojan, password: eeb6823c-b926-4ea2-866a-5542edd26e59, sni: hhcm.hhxaf.cc.cd, ws-path: "h=%2F", skip-cert-verify: true}
