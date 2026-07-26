@@ -1,6 +1,6 @@
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
 trojan://VPNCUSTOMIZE@104.18.16.56:443?allowInsecure=0&sni=ww.gameserver.de5.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.18.152.143:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20V2CROSS.COM
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.29.24:13118?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
 trojan://BxceQaOe@54.46.125.192:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
 trojan://BxceQaOe@16.163.144.226:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20003
