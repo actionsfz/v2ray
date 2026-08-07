@@ -1,7 +1,9 @@
-trojan://humanity@104.16.174.121:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Technicolor%20SA
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Technicolor%20SA
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IE1pY3Jvc29mdOaVsOaNruS4reW/gyIsImFkZCI6ImNpbmR5NTIuY2VvaWlpLmNvbSIsInBvcnQiOiIzNjgwMyIsInR5cGUiOiJub25lIiwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsInRscyI6IiJ9
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Technicolor%20SA
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Technicolor%20SA
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64g6Iqs5YWwIOi1q+WwlOi+m+WfukhldHpuZXLmlbDmja7kuK3lv4MiLCJhZGQiOiJ0LnRlbGV3ZWJpb24uaXIudmFyemVzaDMuY29tLmRlIiwicG9ydCI6IjgwIiwidHlwZSI6Imh0dHAiLCJpZCI6IjMwNWI5NTYzLTkyNTktNDUyOC04MWEwLTc4MmM3MjQxOGY5MyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2Y5YkdiRzdaTnk1TDB0ZFFwVWJMWEhISUFsR3YiLCJob3N0Ijoic3RhdHVzLnBsYXkuZ29vZ2xlLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiY2luZHk1MC5jZW9paWkuY29tIiwicG9ydCI6IjM2ODAxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIn0=
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Technicolor%20SA
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:17111?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
 trojan://BxceQaOe@16.162.3.64:50115?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
 trojan://BxceQaOe@16.162.3.64:11231?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20003
